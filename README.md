@@ -1,6 +1,9 @@
- # Hi there 👋
- # Some of my projects are private, as they are related to class material. If you'd like to take a look at them, please send me an email here -> erickitagawas@gmail.com 
- # Thanks for coming!
+# Hi there 👋
+
+Some of my projects are private, as they are related to class material. If you'd like to take a look at them, please send me an email at [erickitagawas@gmail.com](mailto:erickitagawas@gmail.com).
+
+Thanks for coming!
+
 <!--
 **eric-kitagawa/eric-kitagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
