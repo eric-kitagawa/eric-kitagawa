@@ -2,7 +2,6 @@
 
 **` 3rd Year Computer Science @ Northeastern University`**
 
-### I'm Eric, I build programs for problems & ideas I find interesting.
 
 🎓 I'm set to graduate in the Spring of 2027\
 🌱 I'm currently building a migration tracker to visualize the extensive animal tracking data available through the MoveBank API\
