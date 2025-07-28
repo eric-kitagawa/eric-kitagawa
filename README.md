@@ -1,20 +1,9 @@
-# Hi there 👋
+# 🦆 Eric Kitagawa
 
-Some of my projects are private, as they are related to class material. If you'd like to take a look at them, please send me an email at [erickitagawas@gmail.com](mailto:erickitagawas@gmail.com).
+**` 3rd Year Computer Science @ Northeastern University`**
 
-Thanks for coming!
-
-<!--
-**eric-kitagawa/eric-kitagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Eric, I build programs for problems & ideas I find interesting.
+🎓 &nbsp; I'm set to graduate in the Spring of 2027
+🌱 &nbsp; I'm currently building a migration tracker to visualize the extensive animal tracking data available through the MoveBank API
+🤺 &nbsp; In my free time, I fence. I've been doing it for over a decade and it's my biggest passion outside of software
+✉️ &nbsp; You can reach me at e.kitagawa@northeastern.edu, I check it often
