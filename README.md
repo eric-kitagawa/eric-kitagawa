@@ -4,7 +4,7 @@
 
 
 🎓 I'm set to graduate in the Spring of 2027\
-📜 Previously I worked at Johnson & Johnson, developing R&D medical software
+📜 Previously, I worked at Johnson & Johnson, developing R&D medical software\
 🌱 I'm currently building a migration tracker to visualize the extensive animal tracking data available through the MoveBank API\
 🤺 In my free time, I fence\
 ✉️ You can reach me at e.kitagawa@northeastern.edu, I check it often
