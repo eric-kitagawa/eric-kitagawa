@@ -5,7 +5,7 @@
 
 🎓 I'm set to graduate in the Spring of 2027\
 🌱 I'm currently building a migration tracker to visualize the extensive animal tracking data available through the MoveBank API\
-🤺 In my free time, I fence. I've been doing it for over a decade and it's my biggest passion outside of software\
+🤺 In my free time, I fence\
 ✉️ You can reach me at e.kitagawa@northeastern.edu, I check it often
 
 
