@@ -7,7 +7,7 @@
 📜 Previously, I worked at Johnson & Johnson, developing R&D medical software\
 🌱 I'm currently building a migration tracker to visualize animal tracking data found on the MoveBank database\
 🤺 In my free time, I fence (I've done it for 15+ years)\
-✉️ You can reach me at e.kitagawa@northeastern.edu, I check it often
+✉️ You can reach me at e.kitagawa@northeastern.edu; I check it often
 
 
 :briefcase: Currently looking for Spring & Summer 2026 Software Engineering internships!\
