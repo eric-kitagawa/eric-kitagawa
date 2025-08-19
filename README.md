@@ -10,8 +10,8 @@
 ✉️ You can reach me at e.kitagawa@northeastern.edu, I check it often
 
 
-:briefcase: &nbsp;Currently looking for Spring & Summer 2026 Software Engineering internships!\
-📄 &nbsp;Please contact me to get a copy of my resume or if you have any questions!
+:briefcase: Currently looking for Spring & Summer 2026 Software Engineering internships!\
+📄 Please contact me to get a copy of my resume or if you have any questions!
 
 ### 🛠 &nbsp;Tech Stack
 
