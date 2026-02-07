@@ -7,7 +7,7 @@
 📜 I'm currently co-oping at eMoney Advisor, working on one of their core modernization efforts\
 🕰️ Previously, I worked at Johnson & Johnson developing R&D medical software\
 🌱 I'm currently working on SelfServe, a task management platform for hotel staff to better manage guest requests (think Jira for hotels) \
-🤺 In my free time, I fence (I've done it for 15+ years)\
+🤺 In my free time, I fence (I've done it for 15+ years)
 
 
 :briefcase: Currently looking for Summer 2026 Software Engineering internships!\
