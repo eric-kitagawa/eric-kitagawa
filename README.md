@@ -10,4 +10,4 @@ Previously, I worked at **eMoney Advisor** (Fidelity subsidiary) as a Software E
 
 ### Check out my work!
 [LinkedIn](https://www.linkedin.com/in/erickitagawa/)  
-[Website](https://www.eric-kitagawa.github.io/)
+[Website](https://eric-kitagawa.github.io/)
