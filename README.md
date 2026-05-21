@@ -1,7 +1,7 @@
 ## Hi, I'm Eric
 
 I'm a rising **fourth-year Computer Science student** with a special liking for Python and Go.  
-Previously, I worked at **eMoney Advisor** (Fidelity subsidiary) as a Software Engineering co-op.
+Previously, I worked at **eMoney Advisor** (Fidelity subsidiary) and **Johnson & Johnson** as a Software Engineering co-op
 
 ---
 
