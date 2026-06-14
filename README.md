@@ -6,7 +6,7 @@ Previously, I worked at **eMoney Advisor** (Fidelity subsidiary) and **Johnson &
 ---
 
 ### Currently Working On
-- 🤯 Leetcode and Lower Level Design Prep!
+- Boutline
 
 ### Check out my work!
 [LinkedIn](https://www.linkedin.com/in/erickitagawa/)  
